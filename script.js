@@ -27,7 +27,6 @@ function Boo() {
   const arr = [1, 2];
   
   console.log('start');
-
     return {
       next: () => {
         if (i <= arr.length) {
