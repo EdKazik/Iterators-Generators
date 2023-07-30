@@ -25,9 +25,6 @@
 function Boo() {
   let i = 0;
   const arr = [1, 2];
-  const valuesArr = Object.values(arr);
-
-  console.log(valuesArr)
   
   console.log('start');
 
